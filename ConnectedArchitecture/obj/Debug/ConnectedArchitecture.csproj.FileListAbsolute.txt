@@ -1,0 +1,11 @@
+C:\Users\AHMET\Desktop\Connected Architecture\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.exe.config
+C:\Users\AHMET\Desktop\Connected Architecture\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.exe
+C:\Users\AHMET\Desktop\Connected Architecture\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.pdb
+C:\Users\AHMET\Desktop\Connected Architecture\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.csproj.AssemblyReference.cache
+C:\Users\AHMET\Desktop\Connected Architecture\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.Form1.resources
+C:\Users\AHMET\Desktop\Connected Architecture\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.Properties.Resources.resources
+C:\Users\AHMET\Desktop\Connected Architecture\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.csproj.GenerateResource.cache
+C:\Users\AHMET\Desktop\Connected Architecture\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\Desktop\Connected Architecture\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.exe
+C:\Users\AHMET\Desktop\Connected Architecture\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.pdb
+C:\Users\AHMET\Desktop\Connected Architecture\ConnectedArchitecture\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.ProductDetails.resources
